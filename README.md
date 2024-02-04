@@ -1,2 +1,1 @@
-# polygon.github.io
-Polygon Roleplay Documentation
+# Polygon Roleplay Documentation
